@@ -9,3 +9,5 @@
 [Tutorial 6](https://github.com/NightfuryEquinn/R-Playground/blob/main/tutorial6.R)
 <br />
 [Tutorial 7](https://github.com/NightfuryEquinn/R-Playground/blob/main/tutorial7.R)
+<br />
+[Tutorial 8](https://github.com/NightfuryEquinn/R-Playground/blob/main/tutorial8.R)
